@@ -1,0 +1,42 @@
+Examples:
+
+<pre>
+{{Attribution de contenu libre|
+|titre = 
+|auteur = 
+|editeur = 
+|source= 
+|documentURL = 
+|URL de declaration de licence = 
+|licence = 
+}}
+</pre>
+
+
+or
+
+
+<code><nowiki>
+{{Attribution de contenu libre|
+|titre = 
+|auteur = 
+|editeur = 
+|source= 
+|documentURL = 
+|URL de declaration de licence = 
+|licence = 
+}}
+</nowiki></code>
+
+
+or
+
+<code><nowiki>{{Attribution de contenu libre|</nowiki></code>
+<code><nowiki>|titre = </nowiki></code>
+<code><nowiki>|auteur =</nowiki></code>
+<code><nowiki>|editeur =</nowiki></code>
+<code><nowiki>|source= </nowiki></code>
+<code><nowiki>|documentURL =</nowiki></code>
+<code><nowiki>|URL de declaration de licence = </nowiki></code>
+<code><nowiki>|licence = </nowiki></code>
+<code><nowiki>}}</nowiki></code>
